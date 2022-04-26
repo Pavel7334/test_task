@@ -1,7 +1,7 @@
 # test_task
 
 Запуск проекта.
- - Скопировать проект с помощью ``` https://github.com/Pavel7334/test_task.git ```
+ - Скопировать проект с помощью ``` git clone https://github.com/Pavel7334/test_task.git ```
  - ```cd test_task``` - перейти в директорию проекта
  - ```docker-compose up --build ```  собрать приложение и сделать его первоначальный запуск
  - ```docker-compose down -v``` – остановить работу приложения
