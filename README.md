@@ -1,7 +1,7 @@
 # test_task
 
 Запуск проекта.
- - Скопировать проект с помощью ``` git clone https://github.com/iNgredie/Simbirsoft_spring_practicum.git ```
+ - Скопировать проект с помощью ``` https://github.com/Pavel7334/test_task.git ```
  - ```docker-compose up --build ```  собрать приложение и сделать его первоначальный запуск
  - ```docker-compose down -v``` – остановить работу приложения
  - ```docker-compose run web python manage.py migrate``` – сделать необходимые миграции
